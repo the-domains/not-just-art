@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.981319
 color:
-  saturation: 0.8101151
-  brandStrength: 0.2857852
+  saturation: 1
+  brandStrength: 0.8422939
   lightness: 0.4623656
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  rhythmicContrast: 0.6164874
-typography_spectrum: 0.981319
+    - '#FFFFFF'
+    - '#FF00FC'
+    - '#020202'
+    - '#5C5C5C'
+    - '#BEBEBE'
+  rhythmicContrast: 0.5519713
 layout_spectrum: 0
 name: Not Just Art
