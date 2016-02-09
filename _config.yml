@@ -1,3 +1,7 @@
+name: Not Just Art
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.8924731
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8924731
+title: Not Just Art
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.8422939
-  lightness: 0.5967742
   brandColors:
     - '#FFFFFF'
     - '#FF00FC'
     - '#020202'
     - '#5C5C5C'
     - '#BEBEBE'
+  brandStrength: 0.8422939
+  lightness: 0.5967742
+  saturation: 1
   rhythmicContrast: 0.5519713
-layout_spectrum: 0
-name: Not Just Art
+purpose: []
